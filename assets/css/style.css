@@ -5,9 +5,9 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
-    background-image: url('../images/08f242407968fcbb744e3d9a029cd9bb.jpg'); /* Add the background image URL */
-    background-size: cover; /* Make sure the image covers the entire background */
-    background-position: center; /* Center the background image */
+    background-image: url('../images/08f242407968fcbb744e3d9a029cd9bb.jpg'); 
+    background-size: cover; 
+    background-position: center; 
     background-repeat: no-repeat; 
     
 }
